@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmad Barish!
 
 <p align="center">
-  <img src="./me.jpg" alt="Ahmad Barish" width="200px"/>
+  <img src="./me.jpg" alt="Ahmad Barish" height="100px" width="200px"/>
 </p>
 
 Welcome to my GitHub profile. I'm a frontend developer who loves building web applications and enhancing user experiences.
