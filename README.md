@@ -30,15 +30,7 @@ Welcome to my GitHub profile. I'm a frontend developer who loves building web ap
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/AhmadBarish">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmadBarish&show_icons=true&theme=radical" alt="My GitHub Stats">
-  </a>
-</p>
-
+    
 ## 📫 Contact Me
 
 <p align="center">
